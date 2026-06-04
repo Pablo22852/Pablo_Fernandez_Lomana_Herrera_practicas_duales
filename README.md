@@ -11,7 +11,7 @@
 - **Comunicación Internacional:** Participación activa en diálogos y reuniones de equipo comunicadas íntegramente en inglés con los compañeros.
 - **Propuesta de Sostenibilidad:** Elaboración de un plan y propuesta de prácticas sostenibles aplicables al entorno laboral y tecnológico de la empresa.
 
-### 🛠️ Herramientas y Tecnologías Utilizadas
+### Herramientas y Tecnologías Utilizadas
 - **Frontend:** Angular, TypeScript.
 - **Backend:** Laravel, PHP.
 - **Base de Datos:** MySQL.
@@ -24,6 +24,6 @@ Las tareas realizadas han puesto en práctica y ampliado los conocimientos de lo
 
 
 ### Vídeo de la Exposición
-- **Enlace a la presentación:** [🔗 Ver exposición](ENLACE_AL_VIDEO_AQUI) *(Nota: Si está en varias partes, añade los enlaces a la lista de reproducción aquí).*
+- **Enlace a la presentación:** [Video](https://youtu.be/nI-Q_RYii3M) 
 
 
